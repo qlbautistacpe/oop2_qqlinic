@@ -1,1 +1,2 @@
-# real_world_problem_oop2_final_project
+# Local Clinic Management System
+OOP2 Final Project
