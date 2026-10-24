@@ -1,0 +1,17 @@
+{
+  "admin": {
+    "salt": "66637a04b8a7cc4a",
+    "hash": "475c02e7ae4697a575162fd2526353d67df3033a183e66e5fd5273914a396942",
+    "role": "admin"
+  },
+  "nurse": {
+    "salt": "34a9c3fa4488c6c7",
+    "hash": "0081ade471f6a549b9b7738132a305ce95399614358c778b4042f5e6a264eb1c",
+    "role": "nurse"
+  },
+  "doctor": {
+    "salt": "5b06c3440eeea343",
+    "hash": "381c949b64e8c6ce0e4a153e04e5b2c7c412bbf806e2655217180dc7586ba8e7",
+    "role": "doctor"
+  }
+}
